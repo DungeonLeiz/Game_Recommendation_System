@@ -1,0 +1,13 @@
+rapidfuzz
+pyspellchecker
+fuzzywuzzy
+scikit-learn
+ipykernel
+pandas
+numpy
+pyyaml
+summarytools
+matplotlib
+seaborn
+imblearn
+Jinja2
