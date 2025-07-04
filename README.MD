@@ -55,7 +55,7 @@ This project is designed to use collaborative filtering abd content-based filter
 
 ## Usage
 
-```bash
+   ```bash
    cd src
    python main.py
    ```
