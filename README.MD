@@ -15,7 +15,7 @@ This project is designed to use collaborative filtering abd content-based filter
 ## Project Structure
 
 ```
-├── data/                   # Weather Types Dataset
+├── data/                   # Video Game Dataset
 │   ├── processed/
 │   │   ├── processed_data.csv
 │   │   ├── scaled_features.csv
@@ -30,7 +30,7 @@ This project is designed to use collaborative filtering abd content-based filter
 │   ├── config.yaml
 │   ├── data_exploration.ipynb
 │   ├── model_training.ipynb
-├── report/                    # Project Report
+├── report/                 # Project Report
 │   ├── Video_Game_Recommendation_System.docx
 │   src/
 │   ├── config.yaml
